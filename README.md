@@ -6,3 +6,5 @@ This discord bot automatically deletes messages from specific channel id on loop
 
 # discord-auto-delete-bot main2.py
 - Auto delete v2 for many channels instead of just one specific channel id.
+
+- Updated version for spammers who spam slash commands is update.py
